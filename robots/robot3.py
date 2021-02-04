@@ -30,7 +30,7 @@ text_email = f'Dolar hoje: {dolar}\nDay: {str(datetime.today())}'
 
 # email sender, password and destiny
 fromadr = 'wictorsong@gmail.com'
-pwd = 'amigofielj123'
+pwd = '###########'
 toadr = 'wictorsong@gmail.com'
 
 # Setup of MIME
